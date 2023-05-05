@@ -1,0 +1,15 @@
+/* 
+  Size and position of SVG on the page
+  (I don't count the CSS code as a part of SVG animation)
+*/
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+svg {
+    width: 100px;
+}
